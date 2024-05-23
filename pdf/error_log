@@ -1,0 +1,147 @@
+[11-Jan-2024 10:36:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 10:36:28 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 10:36:28 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 10:36:28 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 10:41:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 10:47:34 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 10:47:34 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 10:47:34 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 10:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 10:54:11 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 10:54:11 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 10:54:11 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:00:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:00:41 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:00:41 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:00:41 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:02:48 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:02:48 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:02:48 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:10:29 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:10:29 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:10:29 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:13:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:19:47 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:19:47 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:19:47 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:24:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:25:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:26:06 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:26:06 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:26:06 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 11:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:30:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:31:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:32:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:32:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:34:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:34:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:36:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:36:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:40:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:53:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:53:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:55:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/oslcompk/public_html/clientportal/pdf/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 33
+[11-Jan-2024 11:55:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/oslcompk/public_html/clientportal/pdf/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 33
+[11-Jan-2024 11:59:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/oslcompk/public_html/clientportal/pdf/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 33
+[11-Jan-2024 11:59:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/oslcompk/public_html/clientportal/pdf/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 33
+[11-Jan-2024 11:59:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 11:59:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 12:01:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/oslcompk/public_html/clientportal/pdf/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/oslcompk/public_html/clientportal/pdf/index.php on line 31
+[11-Jan-2024 12:04:08 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:04:08 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:04:08 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:04:43 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:04:43 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:04:43 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:06:16 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:06:16 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:06:16 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:06:58 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:06:58 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:06:58 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:07:07 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:07:07 UTC] PHP Warning:  require(fpdf186/fpdf.php): failed to open stream: No such file or directory in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
+[11-Jan-2024 12:07:07 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf186/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/oslcompk/public_html/clientportal/pdf/genratepdf.php on line 6
